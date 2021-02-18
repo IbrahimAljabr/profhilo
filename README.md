@@ -54,9 +54,9 @@ Estimate of time needed to complete: 1 hour
 
 Start time: 4
 
-Finish time: 
+Finish time: 5:30
 
-Actual time needed to complete:  min
+Actual time needed to complete: 1:30 min
 
 -----
 -----

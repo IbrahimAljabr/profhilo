@@ -1561,8 +1561,6 @@ align-items: stretch;
 
         #main > section.one {
             color: #121212;
-            display: flex;
-           
         }
         #vid{
             display: flex;
